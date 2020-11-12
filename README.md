@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,363 Contributions in the Year 2020
+> 🏆 1,365 Contributions in the Year 2020
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 111 Public Repositories
+> 📜 112 Public Repositories
  > 
 > 🔑 22 Private Repositories 
 
@@ -50,6 +50,9 @@ Sunday       65 commits     █░░░░░░░░░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
+💻 Operating System: 
+No Activity Tracked This Week
+
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,6 +66,10 @@ Vue                      4 repos             █░░░░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://github.com/webdev778/webdev778/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->

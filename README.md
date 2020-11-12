@@ -69,7 +69,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/webdev778/webdev778/blob/master/charts/bar_graph.png) 
+![Chart not found](https://github.com/webdev778/webdev778/blob/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->

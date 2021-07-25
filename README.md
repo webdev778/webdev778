@@ -48,11 +48,10 @@ Sunday       102 commits    █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Ruby                     7 mins              ██████████████████████░░░   88.88% 
-YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   11.12%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,7 +72,7 @@ TypeScript               3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/webdev778/webdev778/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2021
+ Last Updated on 25/07/2021
 <!--END_SECTION:waka-->
 
 <img align="right" alt="GIF" src="https://github.com/webdev778/webdev778/blob/main/code.gif?raw=true" width="500" height="320" />

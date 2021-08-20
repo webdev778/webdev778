@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,629 Contributions in the Year 2021
+> 🏆 1,356 Contributions in the Year 2021
  > 
 > 📦 1.5 MB Used in Github's Storage 
  > 
@@ -76,7 +76,7 @@ TypeScript               3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/webdev778/webdev778/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2021
+ Last Updated on 20/08/2021
 <!--END_SECTION:waka-->
 
 <img align="right" alt="GIF" src="https://github.com/webdev778/webdev778/blob/main/code.gif?raw=true" width="500" height="320" />

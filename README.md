@@ -48,14 +48,10 @@ Sunday       70 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     8 mins              ████████████████░░░░░░░░░   66.99% 
-Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.81% 
-Docker                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,7 +72,7 @@ TypeScript               3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/webdev778/webdev778/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/11/2021
+ Last Updated on 25/11/2021
 <!--END_SECTION:waka-->
 
 <img align="right" alt="GIF" src="https://github.com/webdev778/webdev778/blob/main/code.gif?raw=true" width="500" height="320" />

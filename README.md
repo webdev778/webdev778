@@ -60,9 +60,9 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.67% 
+JavaScript               34 repos            █████████░░░░░░░░░░░░░░░░   37.78% 
 Ruby                     23 repos            ██████░░░░░░░░░░░░░░░░░░░   25.56% 
-HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
 CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
 TypeScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
@@ -74,7 +74,7 @@ TypeScript               3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/webdev778/webdev778/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/05/2022 00:25:24 UTC
+ Last Updated on 25/05/2022 00:24:19 UTC
 <!--END_SECTION:waka-->
 
 <img align="right" alt="GIF" src="https://github.com/webdev778/webdev778/blob/main/code.gif?raw=true" width="500" height="320" />

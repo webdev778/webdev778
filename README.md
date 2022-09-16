@@ -23,6 +23,40 @@
  > 
 > 🔑 29 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    147 commits    █████░░░░░░░░░░░░░░░░░░░░   21.75% 
+🌆 Daytime    177 commits    ██████░░░░░░░░░░░░░░░░░░░   26.18% 
+🌃 Evening    177 commits    ██████░░░░░░░░░░░░░░░░░░░   26.18% 
+🌙 Night      175 commits    ██████░░░░░░░░░░░░░░░░░░░   25.89%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Tuesday      85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.57% 
+Wednesday    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+Thursday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.79% 
+Friday       222 commits    ████████░░░░░░░░░░░░░░░░░   32.84% 
+Saturday     46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
+Sunday       42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -40,7 +74,7 @@ TypeScript               3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/webdev778/webdev778/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 00:27:44 UTC
+ Last Updated on 16/09/2022 00:29:58 UTC
 <!--END_SECTION:waka-->
 
 <img align="right" alt="GIF" src="https://github.com/webdev778/webdev778/blob/main/code.gif?raw=true" width="500" height="320" />
